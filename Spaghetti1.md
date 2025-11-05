@@ -1,7 +1,7 @@
 # Spaghetti aglio, olio e peperoncino
 il nostro piatto preferito
 ## ingredienti del piatto
-* spaghetti
+* spaghetti numero 15
 * olio
 * aglio 
 * peperoncino
